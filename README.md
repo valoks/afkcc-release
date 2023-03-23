@@ -28,14 +28,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -60,7 +53,7 @@ About text
 
 This section lists any major frameworks/libraries used to bootstrap the project.
 
-* [![Angular][Angular.io]][Angular-url]
+[![Angular][Angular.io]][Angular-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,7 +62,7 @@ This section lists any major frameworks/libraries used to bootstrap the project.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-If you're having any issues, these links might be helpful.
+<p>If you're having any issues, these links might be helpful.</p>
 <a href="https://discord.gg/dRqNZtcBZS"><strong>Setup video</strong></a>
 <a href="https://discord.gg/dRqNZtcBZS"><strong>Showcase video</strong></a>
 <a href="https://discord.gg/dRqNZtcBZS"><strong>Support Discord</strong></a>
