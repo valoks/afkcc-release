@@ -43,7 +43,11 @@
 
 <!-- [![AFK Console Client Screen Shot][product-screenshot]](https://example.com) -->
 
-About text
+The Minecraft AFK Console Client is a user-friendly software application designed to help players easily AFK on Minecraft servers through a simple and intuitive graphical user interface (GUI). This console client provides an effortless way for Minecraft players to automate the mundane task of AFKing, allowing them to focus on other tasks or activities.
+
+With its sleek and modern design, the Minecraft AFK Console Client is easy to use and provides a range of options to customize the AFK experience, including settings for movement, chat, and more. Whether you're a casual player or a hardcore Minecraft enthusiast, this console client is the perfect tool to help you maximize your gameplay and productivity.
+
+Overall, the Minecraft AFK Console Client is a powerful and convenient software application that simplifies the AFK process for Minecraft players and enhances their gaming experience with a user-friendly and intuitive interface.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
