@@ -65,9 +65,9 @@ This section lists any major frameworks/libraries used to bootstrap the project.
 <p>If you're having any issues, these links might be helpful.</p>
 <a href="https://discord.gg/dRqNZtcBZS"><strong>Setup video</strong></a><br>
 <a href="https://discord.gg/dRqNZtcBZS"><strong>Showcase video</strong></a><br>
-<a href="https://discord.gg/dRqNZtcBZS"><strong>Support Discord</strong></a><br>
+<a href="https://discord.gg/dRqNZtcBZS"><strong>Support Discord</strong></a><br><br>
 
-<p>To get started, please download the latest release here from Github (the afkconsoleclient.exe file). Then run the file on your computer.</p>
+To get started, please download the latest release here from Github (the afkconsoleclient.exe file). Then run the file on your computer.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
