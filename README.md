@@ -1,9 +1,8 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://minecraftafk.com/assets/images/product_showcase_on_devices.webp">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -18,7 +17,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -38,10 +36,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<!-- [![AFK Console Client Screen Shot][product-screenshot]](https://example.com) -->
 
 The Minecraft AFK Console Client is a user-friendly software application designed to help players easily AFK on Minecraft servers through a simple and intuitive graphical user interface (GUI). This console client provides an effortless way for Minecraft players to automate the mundane task of AFKing, allowing them to focus on other tasks or activities.
 
@@ -52,18 +47,6 @@ Overall, the Minecraft AFK Console Client is a powerful and convenient software 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-### Built With
-
-This section lists any major frameworks/libraries used to bootstrap the project.
-
-[![Angular][Angular.io]][Angular-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 <p>If you're having any issues, these links might be helpful.</p>
@@ -76,22 +59,21 @@ To get started, please download the latest release here from Github (the afkcons
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
-## License
 
-
-<!-- CONTACT -->
 ## Contact
 
-AFK Console Client - [Discord](https://discord.gg/dRqNZtcBZS)
+Company: [Website](https://valoks.com)
 
-Project Link: [https://github.com/valoks/](https://github.com/valoks/)
+Discord: [Discord](https://discord.gg/dRqNZtcBZS)
+
+GitHub: [https://github.com/valoks](https://github.com/valoks)
+
+Email: admin@valoks.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 A list of resources which were helpful in the making of the client.
