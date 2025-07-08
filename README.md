@@ -1,83 +1,45 @@
-<a name="readme-top"></a>
+# MinecraftAFK
 
-<br />
-<div align="center">
-  <a href="https://minecraftafk.com/assets/images/product_showcase_on_devices.webp">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+![image](https://minecraftafk.com/assets/images/product_showcase_on_devices.webp)
 
-  <h3 align="center">AFK Console Client</h3>
+This light-weight AFK client is made for any and all Minecraft players. With a sleek interface anyone should be able to use it! Visit our website or join our Discord server for more information.
 
-  <p align="center">
-    This light-weight AFK client is made for any and all Minecraft players. With a sleek interface and fast Discord support anyone should be able to use it! Join here to see more:
-    <br />
-    <a href="https://discord.gg/dRqNZtcBZS"><strong>Discord Server</strong></a>
-  </p>
-</div>
-
-
-
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
+- [Website](https://minecraftafk.com)
+- [Discord](https://discord.gg/dRqNZtcBZS)
 
 ## About The Project
 
-The Minecraft AFK Console Client is a user-friendly software application designed to help players easily AFK on Minecraft servers through a simple and intuitive graphical user interface (GUI). This console client provides an effortless way for Minecraft players to automate the mundane task of AFKing, allowing them to focus on other tasks or activities.
+The Minecraft AFK Console Client was developed due to the lack of a Console Client with an intuitive user interface. Most Minecraft players are casual or non-technical, unfortunately most clients require technical knowledge and time to set up. That's why we made the client. It's intuitive and fast.
 
-With its sleek and modern design, the Minecraft AFK Console Client is easy to use and provides a range of options to customize the AFK experience, including settings for movement, chat, and more. Whether you're a casual player or a hardcore Minecraft enthusiast, this console client is the perfect tool to help you maximize your gameplay and productivity.
+Minecraft takes up a lot of your resources, so running the AFK Console Client instead will save you a lot of resources and allow you to AFK with a lot of accounts simultaneously. Furthermore, the client offers a single interface for controlling all of your accounts at once.
 
-Overall, the Minecraft AFK Console Client is a powerful and convenient software application that simplifies the AFK process for Minecraft players and enhances their gaming experience with a user-friendly and intuitive interface.
+As requested, we've also made a web/cloud based client which also allows you to AFK 24/7 with your computer closed. You can check that out [here](https://minecraftafk.com/web) or read more about it just below.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Want to AFK with your computer turned off?
 
+We also offer a web/cloud version of this client. You can check it out [here](https://minecraftafk.com/web).
+
+The web version is web based, so it runs in any web-browser allowing you to manage your accounts from any device including your phone.
+
+The web client takes allows you to AFK 24/7 from our machines, so you don't wear down your own hardware or pay the high electricity bills. Perfect for competitive players!
 
 ## Getting Started
 
-<p>If you're having any issues, these links might be helpful.</p>
-<a href="https://discord.gg/dRqNZtcBZS"><strong>Setup video</strong></a><br>
-<a href="https://discord.gg/dRqNZtcBZS"><strong>Showcase video</strong></a><br>
-<a href="https://discord.gg/dRqNZtcBZS"><strong>Support Discord</strong></a><br><br>
+1. Download the latest release here from the GitHub.
+2. Run the file on your computer.
+3. Enjoy!
 
-To get started, please download the latest release here from Github (the afkconsoleclient.exe file). Then run the file on your computer.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+Or watch our setup/installation video [here](https://www.youtube.com/watch?v=A-sowP8kfHg)
 
 ## Contact
 
-Company: [Website](https://valoks.com)
-
-Discord: [Discord](https://discord.gg/dRqNZtcBZS)
-
-GitHub: [https://github.com/valoks](https://github.com/valoks)
-
-Email: admin@valoks.com
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+- Email: admin@valoks.com
+- Company: [Website](https://valoks.com)
+- Discord: [Discord](https://discord.gg/dRqNZtcBZS)
+- GitHub: [https://github.com/valoks](https://github.com/valoks)
 
 ## Acknowledgments
 
 A list of resources which were helpful in the making of the client.
 
-* [Mineflayer](https://github.com/PrismarineJS/mineflayer)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- [Mineflayer](https://github.com/PrismarineJS/mineflayer)
